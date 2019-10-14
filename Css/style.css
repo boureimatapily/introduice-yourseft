@@ -1,0 +1,47 @@
+body
+{
+	
+	text-align: center;
+	background-image: url("../Images/3.jpg");
+	background-repeat: no-repeat;
+	background-position: top right;
+	height: 700px;
+
+}
+""
+#nav_content
+{
+	height: 100px;
+	text-align: center;
+	width: 200px;
+	
+}
+
+#nav_content ul > li
+{
+		border: 2px solid;
+		border-radius: 5px;
+		display: inline-grid;
+
+
+}
+#introduction
+{
+	background-color: yellow;
+}
+
+.body_history
+{
+	background-color: green;
+}
+
+p
+{
+	font-size: large;
+}
+
+#cv
+{
+	background-color: navy;
+	
+}
